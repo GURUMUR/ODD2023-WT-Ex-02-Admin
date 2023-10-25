@@ -1,6 +1,6 @@
 # Ex-02-Admin
- Name:Gurumurthy S
- Reference number:23013514
+# Name:Gurumurthy S
+# Reference number:23013514
 # AIM
 
 Create a Django website with five users. Two users are to be staff users (including admin) and the other three users are non-staff users.
