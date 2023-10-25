@@ -15,7 +15,7 @@ Setting e-mail for all users
 # step 4:
 Setting the first name and last name for all users
 # Output:
-![django](https://github.com/GURUMUR/ODD2023-WT-Ex-02-Admin/assets/144895197/97b95005-fbd9-49a4-9ff2-02520306ac3c)
+![django_pro](https://github.com/GURUMUR/ODD2023-WT-Ex-02-Admin/assets/144895197/08972c61-13ca-422c-bb7b-5be8b29c3517)
 
 # Result:
 output is created successfully.
