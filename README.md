@@ -1,4 +1,4 @@
-# Ex-02-Admin
+# Ex-03-Admin User using function-based views
 Name:Gurumurthy S
 Reference number:23013514
 # AIM
